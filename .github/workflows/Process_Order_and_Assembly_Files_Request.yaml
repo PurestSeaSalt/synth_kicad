@@ -1,4 +1,5 @@
 name: Process Order and Assembly Files Request
+uses: INTI-CMNB/KiBot@v1.8.4
 on:
   issues:
     types:
