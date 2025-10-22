@@ -1,4 +1,4 @@
-25627005343168200
+25628760107299160
 0_global
 Mono_Jack_112APCX
 
@@ -62,6 +62,13 @@ template_32U
 0
 34
 31
+0_project
+SOP65P490X110-8N
+
+
+0
+8
+8
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
