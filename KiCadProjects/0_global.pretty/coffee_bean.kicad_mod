@@ -1,0 +1,171 @@
+(footprint "coffee_bean"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.48 3.29 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "cb90805b-0616-4b94-bb44-91230dee5dac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "coffee_bean"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "eead987c-267b-4ae5-997a-ee9faf1dbfd4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13fca17d-24b2-4800-814e-10bbee334592")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "55c498c0-c152-4dcb-a5b2-f323bee49c23")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -0.250771 -2.466007) (xy -0.621085 -2.392772) (xy -1.101085 -2.064477) (xy -1.276561 -1.692772)
+			(xy -1.436561 -1.072772) (xy -1.436561 -0.502772) (xy -1.476561 0.037228) (xy -1.436561 0.627228)
+			(xy -1.416561 1.097228) (xy -1.321085 1.695523) (xy -1.181085 1.995523) (xy -1.011085 2.225523) (xy -0.771085 2.375523)
+			(xy -0.541085 2.465523) (xy -0.386561 2.477228) (xy -0.211085 2.475523) (xy -0.186561 2.187228) (xy -0.311085 2.295523)
+			(xy -0.111085 1.975523) (xy -0.091085 1.265523) (xy -0.141085 0.835523) (xy -0.251085 0.445523) (xy -0.351085 0.125523)
+			(xy -0.481085 -0.224477) (xy -0.591085 -0.654477) (xy -0.661085 -1.014477) (xy -0.611085 -1.454477)
+			(xy -0.556561 -1.812772) (xy -0.401085 -2.134477) (xy -0.349893 -2.373964)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "f2014401-05a9-49be-acfd-a67d2fb04609")
+	)
+	(fp_poly
+		(pts
+			(xy 0.249686 2.49153) (xy 0.62 2.418295) (xy 1.1 2.09) (xy 1.275476 1.718295) (xy 1.435476 1.098295)
+			(xy 1.435476 0.528295) (xy 1.475476 -0.011705) (xy 1.435476 -0.601705) (xy 1.415476 -1.071705) (xy 1.32 -1.67)
+			(xy 1.18 -1.97) (xy 1.01 -2.2) (xy 0.77 -2.35) (xy 0.54 -2.44) (xy 0.385476 -2.451705) (xy 0.21 -2.45)
+			(xy 0.185476 -2.161705) (xy 0.31 -2.27) (xy 0.11 -1.95) (xy 0.09 -1.24) (xy 0.14 -0.81) (xy 0.25 -0.42)
+			(xy 0.35 -0.1) (xy 0.48 0.25) (xy 0.59 0.68) (xy 0.66 1.04) (xy 0.61 1.48) (xy 0.555476 1.838295)
+			(xy 0.4 2.16) (xy 0.348808 2.399487)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "fe39bf71-9326-4fd1-8f65-e9588fdfe1de")
+	)
+	(fp_curve
+		(pts
+			(xy -1.49 0) (xy -1.52 -1.42) (xy -1.38 -2.5) (xy -0.2 -2.5)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c2af96e1-90a3-41d1-a625-9c82138d41bf")
+	)
+	(fp_curve
+		(pts
+			(xy -1.49 0) (xy -1.52 1.42) (xy -1.38 2.5) (xy -0.2 2.5)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "7f5bedff-b95c-404f-bb07-58340966f82e")
+	)
+	(fp_curve
+		(pts
+			(xy -0.2 -2.5) (xy -1.44 -0.32) (xy 0.48 -0.03) (xy -0.2 2.5)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d7eb9652-bc71-4f7e-9771-a78b593b6ca1")
+	)
+	(fp_curve
+		(pts
+			(xy 0.2 2.5) (xy 1.44 0.32) (xy -0.48 0.03) (xy 0.2 -2.5)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2eaae96e-d084-4668-84a6-66d77fb00643")
+	)
+	(fp_curve
+		(pts
+			(xy 1.49 0) (xy 1.52 -1.42) (xy 1.38 -2.5) (xy 0.2 -2.5)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3786ba21-a7e8-44be-bae5-ff2aeb09326c")
+	)
+	(fp_curve
+		(pts
+			(xy 1.49 0) (xy 1.52 1.42) (xy 1.38 2.5) (xy 0.2 2.5)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "b589bc3b-3236-414c-8ccc-6d23bc6a8a3a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ebecc334-b899-4eda-91af-ebdf055024f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
